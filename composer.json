@@ -1,0 +1,17 @@
+{
+    "name": "vudaltsov/psalm-faker-undefined-magic-method",
+    "type": "project",
+    "require": {
+        "fzaninotto/faker": "^1.9"
+    },
+    "require-dev": {
+        "vimeo/psalm": "^3.14"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Valentin Udaltsov",
+            "email": "udaltsov.valentin@gmail.com"
+        }
+    ]
+}
